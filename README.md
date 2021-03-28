@@ -1,4 +1,4 @@
-# Source to Learn Golang
+# Awesome Go Learn
 
 ## Quick start
 
