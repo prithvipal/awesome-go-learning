@@ -21,3 +21,39 @@ https://gobyexample.com/
 ### The way to Go
 
 ### Introducing Go
+
+### Concurrency in Go
+
+## Blogs
+
+### Code Katta
+
+http://blog.codekatta.com/
+
+### Ardan Labs
+
+https://www.ardanlabs.com/blog/
+
+### Golang Bot
+
+https://golangbot.com/
+
+### https://dave.cheney.net/
+
+## Golang Official
+
+### Effective Go
+
+https://golang.org/doc/effective_go
+
+### Blog
+
+https://blog.golang.org/
+
+### FAQ
+
+https://golang.org/doc/faq
+
+### Language Specifications
+
+https://golang.org/ref/spec
