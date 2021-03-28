@@ -38,7 +38,9 @@ https://www.ardanlabs.com/blog/
 
 https://golangbot.com/
 
-### https://dave.cheney.net/
+### Dave Cheney
+
+https://dave.cheney.net/
 
 ## Golang Official
 
