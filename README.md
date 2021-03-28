@@ -14,6 +14,8 @@ https://gobyexample.com/
 
 ### Hands on Go programming
 
+<img src=./imgs/hands-on-go-programming.jpeg width=40%>
+
 ### The go programming langauge
 
 ### Go in action
