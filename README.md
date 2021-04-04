@@ -28,6 +28,31 @@ https://gobyexample.com/
 
 ## Blogs
 
+### Gopher Academy
+
+https://blog.gopheracademy.com/
+
+###
+
+https://dmitri.shuralyov.com
+
+### Change log's Go Time
+
+https://changelog.com/gotime
+
+### Go database SQL
+
+http://go-database-sql.org/index.html
+
+### Divan's Blog
+
+https://divan.dev/
+https://divan.dev/posts/avoid_gotchas/
+
+### Tutorial Edge
+
+https://tutorialedge.net/
+
 ### Code Katta
 
 http://blog.codekatta.com/
