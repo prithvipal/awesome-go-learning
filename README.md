@@ -26,6 +26,12 @@ https://gobyexample.com/
 
 ### Concurrency in Go
 
+### Golang Boot Camp
+It is a free book. You can download or read online.
+
+http://www.golangbootcamp.com/book
+
+
 ## Blogs
 
 ### Gopher Academy
@@ -69,6 +75,12 @@ https://golangbot.com/
 
 https://dave.cheney.net/
 
+### Go Walkthrough
+
+The Go walkthrough explains Golang standard library functions.
+
+https://medium.com/go-walkthrough
+
 ## Golang Official
 
 ### Effective Go
@@ -86,3 +98,11 @@ https://golang.org/doc/faq
 ### Language Specifications
 
 https://golang.org/ref/spec
+
+## Other
+
+### Standard Package Layout
+
+It explains how to organize a Go project.
+
+https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1#.ds38va3pp
