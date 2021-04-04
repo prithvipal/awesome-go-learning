@@ -99,6 +99,11 @@ https://golang.org/doc/faq
 
 https://golang.org/ref/spec
 
+## Video tutorials
+
+### Gophercises
+https://gophercises.com/
+
 ## Other
 
 ### Standard Package Layout
