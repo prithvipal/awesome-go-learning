@@ -1,4 +1,4 @@
-# Awesome Go Learn
+# Awesome Go Learning
 
 ## Quick start
 
